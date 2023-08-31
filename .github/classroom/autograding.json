@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Groupwork Retail Book Unit Tests",
+      "setup": "",
+      "run": "./gradlew groupwork-retailbook-test --rerun-tasks",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

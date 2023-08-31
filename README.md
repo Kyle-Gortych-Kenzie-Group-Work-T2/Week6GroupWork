@@ -1,41 +1,36 @@
-<div align="right">
- 
-![main](https://github.com/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/actions/workflows/main.yml/badge.svg) ![original](https://github.com/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/actions/workflows/original.yml/badge.svg?branch=original)
+# Kenzie Java Project
 
-</div>
-
-# Week 6 Group Project
-
-descript
-
-## Changes
-<details>
-<summary>Diff with original branch</summary>
-
-<details>
-<summary>blank.java</summary>
- 
-```diff
-blank
-```
-</details>
-
-</details>
-
-<div align="center">
- 
-### :hammer_and_wrench: Tools :
-
-| Version Control | Build System | Languages |
-| --------------- | ------------ | --------- |
-| <img src="https://img.shields.io/badge/Git-white?style=plastic&logo=git&logoColor=red" title="Git" alt="Git" height="30"/> | <img src="https://img.shields.io/badge/Gradle-white?style=plastic&logo=gradle&logoColor=black" title="gradle" alt="gradle" height="30"/> | <img src="https://custom-icon-badges.demolab.com/badge/Java-white.svg?&sytle=plastic&logo=java" title="Java" alt="Java" height="30"/> |
-</div>
-<br>
+Follow the instructions on lms.kenzie.academy to complete this assignment.
 
 
-### Gradle Commands 
+## Gradle Commands
+
+### Fresh Fruit
+
+* `./gradlew hashingandsets-freshfruit-test` - Run Unit Tests for Fresh Fruit Activity
+
+### Delivery Drone
+
+* `./gradlew hashingandsets-deliverydrone-test` - Run Unit Tests for Delivery Drone Activity
+
+### Parts Manager
+
+* `./gradlew hashingandsets-partsmanager-test` - Run Unit Tests for Parts Manager Activity
+
+### IMDB
+
+* `./gradlew maps-imdb-test` - Run Unit Tests for IMDB Activity
+
+### Device Parts Catalog 
+
+*  `./gradlew maps-devicepartscatalog-test` - Run Unit Tests for Device Parts Catalog Activity
+
+
+
+### Alexa Questions
+
+* `./gradlew designwithcomposition-alexaquestions-test` - Run Unit Tests for AlexaQuestions Activity
+
+### Retail Book
 
 * `./gradlew groupwork-retailbook-test` - Run Unit Tests for Retail Book Group Activity
-<br>
-
-<a href="your-gmail-link?">:mailbox:</a> How to reach the maintainer

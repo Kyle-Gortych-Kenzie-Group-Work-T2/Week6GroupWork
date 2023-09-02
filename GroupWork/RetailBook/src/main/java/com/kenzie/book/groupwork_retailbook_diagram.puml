@@ -6,11 +6,45 @@ adding classes, relationships, and methods
 '/
 
 
-class Book
-class ProductInformation
+class Book{
+-ProductInformation
+-author
+-length
++getAsin()
++getTitle()
++getAuthor()
++getDescription()
++getImageUrls()
++getLength()
++calculateSimilarity(Book other)
++getGoodReadsReview()
++getCustomerReviews()
++getBookishReview()
+}
+class ProductInformation{
+-asin
+-displayName
+-description
+-imageUrls
++getAsin()
++getDisplayname()
++getDescription()
++getImageUrls
++calculateSimilarity(ProductInformation)
+}
+
+class Product{
+-customerReview
+-goodReadsReview
+-bookishReview
++getCustomerReviews()
++getGoodReadsReview()
++getBookishReview()
+}
 
 enum Categories {
 
 }
-
+Book -- ProductInformation
+Book -- Product
 @enduml

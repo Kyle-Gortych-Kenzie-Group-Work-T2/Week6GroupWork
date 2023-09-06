@@ -1,36 +1,29 @@
-# Kenzie Java Project
+<div align="right">
+ 
+![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/main.yml?label=main) ![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/original.yml?label=original)
 
-Follow the instructions on lms.kenzie.academy to complete this assignment.
+</div>
 
+# Week 6 Group Project
 
-## Gradle Commands
+descript
 
-### Fresh Fruit
+<div align="center">
+ 
+### :hammer_and_wrench: Tools :
 
-* `./gradlew hashingandsets-freshfruit-test` - Run Unit Tests for Fresh Fruit Activity
-
-### Delivery Drone
-
-* `./gradlew hashingandsets-deliverydrone-test` - Run Unit Tests for Delivery Drone Activity
-
-### Parts Manager
-
-* `./gradlew hashingandsets-partsmanager-test` - Run Unit Tests for Parts Manager Activity
-
-### IMDB
-
-* `./gradlew maps-imdb-test` - Run Unit Tests for IMDB Activity
-
-### Device Parts Catalog 
-
-*  `./gradlew maps-devicepartscatalog-test` - Run Unit Tests for Device Parts Catalog Activity
+| Version Control | Build System | Languages |
+| --------------- | ------------ | --------- |
+| <img src="https://img.shields.io/badge/Git-white?style=plastic&logo=git&logoColor=red" title="Git" alt="Git" height="30"/> | <img src="https://img.shields.io/badge/Gradle-white?style=plastic&logo=gradle&logoColor=black" title="gradle" alt="gradle" height="30"/> | <img src="https://custom-icon-badges.demolab.com/badge/Java-white.svg?&sytle=plastic&logo=java" title="Java" alt="Java" height="30"/> |
+</div>
+<br>
 
 
+### Gradle Commands 
 
-### Alexa Questions
+```console
+./gradlew groupwork-retailbook-test
+```
+<br>
 
-* `./gradlew designwithcomposition-alexaquestions-test` - Run Unit Tests for AlexaQuestions Activity
-
-### Retail Book
-
-* `./gradlew groupwork-retailbook-test` - Run Unit Tests for Retail Book Group Activity
+<a href="your-gmail-link?">:mailbox:</a> How to reach the maintainer

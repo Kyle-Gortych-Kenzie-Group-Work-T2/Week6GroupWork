@@ -1,4 +1,3 @@
-<!-- testing -->
 <div align="right">
  
 ![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/main.yml?label=main) ![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/original.yml?label=original)
